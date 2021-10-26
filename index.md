@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+        <head>
+            <meta charset="utf-8">
+            <title>Levi</title>
+        </head>
+        <body>
 
-You can use the [editor on GitHub](https://github.com/hankandme6/levi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+                               <h1>All about you</h1>  
+                
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+                               <h2>Basic information</h2>
+                
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hankandme6/levi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        
+                        <li> You are infected with Gingervitis
+                        <Li> Your armpits smell like the onions that Shrek eats...I guess in a way, that makes you pretty cool.
+                        <Li> You are about normal midget size and have massive and hairy feet. You could honestly probably kill someone with them. Ya know, by squashing them like a grape.
+                        <Li> You are very strange. 
+                        <Li> You enjoy reading textbooks and probably enjoy licking them too. Cuz dats weird.
+                                </Li>
+                                
+                                <h3>Official information about you</h3>
+                                
+                        <Li> Literally everything I wrote above. That is the only information about you. Because I am smort and know everything.
+                                </Li>
+                                
+                
+                 <h4>Final note</h4>            
+                       <Li> I am sorry to hear about you and Marin. I hope you are feeling okay and if not, I hope you feel better soon. 
+                        I will send you a Culver's Butterburger Delux basket to make you feel better. 
+                                </Li>
+      
+</body> 
+                                </html>
